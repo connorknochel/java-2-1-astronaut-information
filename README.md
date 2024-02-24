@@ -18,9 +18,9 @@ Next, you will input some test data into these variables:
 
 Finally, using the variables you've created and the test data provided, your program should output the following message:
 
-\`\`\`
+```
 Buzz Aldrin is 90 years old.
 He is a Colonel and has spent 12.0784 days in space.
-\`\`\`
+```
 
 Ensure that your program outputs this message exactly as shown, using the values stored in your variables.
