@@ -1,7 +1,5 @@
-public class AstronautInformation 
-{
-    public static void main(String[] args)
-    {
+public class AstronautInformation {
+    public static void main(String[] args) {
         // Create the variables below
 
         // Store information for the variables below
@@ -9,4 +7,5 @@ public class AstronautInformation
         // Display the message below
         
     }
+    
 }
